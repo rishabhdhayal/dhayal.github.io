@@ -31,10 +31,10 @@ align-items: baseline;
     height: auto;
 }
 .box1{
-     background-color: #FFF8FE;
-     /* height: 700px; */
-     margin-left: 14px;
-     margin-right: 14px;
+    background-color: #FFF8FE;
+     width: 80%;
+     margin-left: auto;
+     margin-right: auto;
      margin-top: 20px;
      border-radius: 10px;
      padding: 20px;
@@ -109,13 +109,14 @@ padding-top: 20px;
 #c4400FF {color: #4400FF;}
 #c00DF30{color: #00DF30;}
 .box2{
-     width: 90%;
+     width: 80%;
      background-color: #C4FDFF;
      /* height: 240px; */
      margin-left: auto;
      margin-right: auto;
      margin-top: 20px;
      border-radius: 10px;
+     padding: 20px 20px 30px;
 }
 .bo1{
     font-family: 'Roboto Slab';
@@ -145,5 +146,5 @@ font-size: 14px;
 line-height: 18px;
 text-align: center;
 margin: 0px;
-padding-bottom: 30px;
+padding-bottom: 0px;
 }
