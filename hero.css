@@ -31,7 +31,7 @@ align-items: baseline;
     height: auto;
 }
 .box1{
-    background-color: #FFF8FE;
+     background-color: #FFF8FE;
      width: 80%;
      margin-left: auto;
      margin-right: auto;
@@ -146,5 +146,4 @@ font-size: 14px;
 line-height: 18px;
 text-align: center;
 margin: 0px;
-padding-bottom: 0px;
 }
